@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984898083629",
+    "project_id": "caloridex",
+    "storage_bucket": "caloridex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984898083629:android:5152df6f717ed8eb8c91a4",
+        "android_client_info": {
+          "package_name": "com.example.caloridex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMDwkHHKFP5oFJQ1xkP_yX63bSzI9lyMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
