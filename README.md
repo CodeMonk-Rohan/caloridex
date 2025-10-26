@@ -1,16 +1,17 @@
-# caloridex_new
+CaloriDEX: AI-Powered Calorie Tracker
 
-A new Flutter project.
+This repository contains the source code for CaloriDEX, a Flutter application for iOS and Android.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+AI Food Detection: Uses a custom YOLOv11n TFLite model to identify Indian food items from photos.
 
-A few resources to get you started if this is your first Flutter project:
+Personalized Goals: Calculates daily calorie/macro targets based on user profile and goals.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Manual Logging: Log food (with macros) and exercise easily.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase Backend: Secure user accounts and cloud-synced data using Firebase Authentication and Cloud Firestore.
+
+Cross-Platform: Single codebase built with Flutter.
+
+Tech Stack: Flutter, Dart, Firebase (Auth, Firestore), TFLite.
